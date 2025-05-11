@@ -1,5 +1,5 @@
 # Coffee_sales_analysis
-# Overview
+## Overview
 This project focuses on analyzing coffee sales data using **Excel** and **Tableau**, including data cleaning, manipulation, pivot table analysis, and interactive dashboard design.
 
 ##  Project Overview
