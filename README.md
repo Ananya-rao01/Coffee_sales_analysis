@@ -31,6 +31,9 @@ June had the highest revenue — peak seasonal demand.
 Larger sizes yield better profit margins.
 USA accounted for the highest revenue.
 
+## Coffee Sales Dashboard
+View the interactive Tableau dashboard here:  
+👉 [Coffee Sales Dashboard on Tableau Public](https://public.tableau.com/views/COFFEE_SALES_DASHBOARD/NAVIGATE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ##  Files Included
 
 - `Coffee_Sales_Analysis.xlsx` – Cleaned data and pivot tables
